@@ -27,15 +27,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  title="Java" alt="Java" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="BASH" alt="BASH" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"  title="Django" alt="Django" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"  title="Flask" alt="Flask" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg"  title="Flask" alt="Flask" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"  title="Spring Boot" alt="Spring Boot" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg"  title="ssh" alt="ssh" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg"  title="ssh" alt="ssh" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"  title="ubuntu" alt="ubuntu" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg"  title="centos" alt="centos" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"  title="docker" alt="docker" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg"  title="grafana" alt="grafana" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"  title="nginx" alt="nginx" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg"  title="kafka" alt="kafka" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg"  title="kafka" alt="kafka" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"  title="git" alt="git" width="40" height="40">&nbsp;
 </div>
 
