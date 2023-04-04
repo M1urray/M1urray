@@ -16,7 +16,7 @@
 
 ### 🧠 Let's GOOO
 
-### ⚡ Fun fact: Living by one simple zen, simple if better than complex. The goal is to improve everyday! 😊
+### ⚡ Living by one simple zen, simple if better than complex. The goal is to improve everyday! 😊
 
 ---
 
