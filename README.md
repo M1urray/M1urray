@@ -33,7 +33,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"  title="ubuntu" alt="ubuntu" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg"  title="centos" alt="centos" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"  title="docker" alt="docker" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg"  title="grafana" alt="grafana" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"  title="nginx" alt="nginx" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg"  title="kafka" alt="kafka" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"  title="git" alt="git" width="40" height="40">&nbsp;
