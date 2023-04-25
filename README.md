@@ -12,9 +12,9 @@
 
 # 👋🏾 Hi there, I'm Robert
 
-## 🌱 I’m currently working at Dynasoft Solutions as a Software Engineeer
+<!-- ## 🌱 I’m currently working at Dynasoft Solutions as a Software Engineeer -->
 
-### 🧠 Let's GOOO
+## 🧠 Let's GOOO
 
 ### ⚡ Living by one simple zen, simple if better than complex. The goal is to improve everyday! 😊
 
