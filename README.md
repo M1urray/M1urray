@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hey There, My name is Robert Kamau.<br>I’m looking to collaborate on Asp.net, Spring Boot ,Django/Flask projects- 🔭 I’m currently working on a number of projects <br>- 🌱 I’m currently learning Angular for frontend development<br>- 💬 Ask me about Gaming, Automation and AI
+Hey There, My name is Robert Kamau.<br>I’m looking to collaborate on Asp.net, Spring Boot ,Django/Flask projects
+🔭 I’m currently working on a number of projects <br>- 🌱 I’m currently learning Angular for frontend development<br>- 💬 Ask me about Gaming, Automation and AI
 
 
 ## 🌐 Socials:
