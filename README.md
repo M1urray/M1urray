@@ -15,10 +15,6 @@ Hey There, My name is Robert Kamau.<br>I’m looking to collaborate on Asp.net, 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-//### 😂 Random Dev Meme
-//<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=m1URRAY&icon=2&color=9)](https://visitcount.itsvg.in)
 
